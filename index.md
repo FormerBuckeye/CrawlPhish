@@ -1,6 +1,6 @@
 ## Welcome to the home of CrawlPhish research
 
-Modern anti-phishing systems are complex: ubiquitous browser blacklists and spam filters rely on extensive infrastructure to support effective protection for end users. PhishFarm is a scalable, automated, and highly-configurable framework which can be used to deploy custom (inert) phishing sites to effectively measure the speed and effectiveness offered by these anti-phishing systems. We are open to collaboration!
+Phishing is a critical threat to Internet users. Although an extensive ecosystem serves to protect users, phishing websites are growing in sophistication, and they can slip past the ecosystem’s detection systems—and subsequently cause realworld damage—with the help of evasion techniques. Sophisticated client-side evasion techniques, known as _cloaking_, leverage JavaScript to enable complex interactions between potential victims and the phishing website, and can thus be particularly effective in slowing or entirely preventing automated mitigations. **CrawlPhish** is a framework for automatically detecting and categorizing client-side cloaking used by known phishing websites. We are open to [collaboration](mailto:Penghui.Zhang@asu.edu?subject=[GitHub]%20CrawlPhish%20Collaboration)!
 
 You can use the [editor on GitHub](https://github.com/FormerBuckeye/cp_share/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
