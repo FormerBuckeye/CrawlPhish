@@ -1,5 +1,7 @@
 ## Welcome to the home of CrawlPhish research
 
+Modern anti-phishing systems are complex: ubiquitous browser blacklists and spam filters rely on extensive infrastructure to support effective protection for end users. PhishFarm is a scalable, automated, and highly-configurable framework which can be used to deploy custom (inert) phishing sites to effectively measure the speed and effectiveness offered by these anti-phishing systems. We are open to collaboration!
+
 You can use the [editor on GitHub](https://github.com/FormerBuckeye/cp_share/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
